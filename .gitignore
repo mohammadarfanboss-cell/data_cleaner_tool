@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+clean_data.csv
+invalid_data.csv
+valid_data.json
