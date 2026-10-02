@@ -1,14 +1,123 @@
-name,email,phone,city
-Arif Hossain,arif@gmail.com,01712345678,  Dhaka
-Rakib Islam,rakibgmail.com,01898765432,Chittagong
-Arif Hossain,arif@gmail.com,01712345678,Dhaka
-Saimon Ahmed,saimon@gmail.com,123,Sylhet
-Babu   Khan,babu@gmail.com,,Khulna
-Shakib Al,shakib@gmail.com,01911223344,   Rajshahi  
-Shakib Al,shakib@gmail.com,01911223344,Rajshahi
-Nusrat Jahan,nusrat.jahan@yahoo.com,01755566677,Barishal
-Tanvir Ahmed,tanvir@,01611122233,Rangpur
-Mim Akter,mim@gmail.com,01522233344,  Dhaka
-dj moni ,big     ----    boss@gmail- ors.com,xxxxxxxxxxxx,Rajshahi
-   sonamo8ni ---@gmail--wrs.com 013st55555555,comilla 
- wrong entry , not-an-email , 123 , Chattogram 
+name,email,phone,city,age,occupation,company,country
+Mim   Hossain,mim.hossain@yahoo.com,,Chittagong,3,Engineer,Tech Solutions,Bangladesh
+Tania Roy,tania.roy@outlook.com,01902654235,Chittagong,23,Designer,Sky Airlines,Bangladesh
+Toma Khan,toma.khan@outlook.com,01995931034,Chittagong,4,Manager,Delta Foods,Bangladesh
+Juthi Ahmed,juthi.ahmed@yahoo.com,0176483,  Gazipur,,Analyst,Tech Solutions,Bangladesh
+Sumi Sarkar,sumi.sarkar@hotmail,01523884969,Rangpur,,Student,Delta Foods,Bangladesh
+Sadia Molla,sadia.molla@hotmail.com,01748018451,Khulna,6,Engineer,Royal Hotel,Bangladesh
+Tanvir   Talukder,tanvir.talukder@yahoo.com,01452880957,Dhaka,abc,Accountant,Tech Solutions,Bangladesh
+Rony Ahmed,rony.ahmed@yahoo.com,01478248963,Noakhali,abc,Developer,United Builders,Bangladesh
+Fahim Rahman,fahim.rahman@yahoo,0110310,Dinajpur,,Manager,United Builders,Bangladesh
+Sumi Sultana,sumi.sultana@hotmail.com,01411656670,Gazipur,59,Developer,Royal Hotel,Bangladesh
+Toma Mia,toma.mia@hotmail,0178108,Dinajpur,,Doctor,Ocean Shipping,Bangladesh
+Sadia Begum,@hotmail.com,01687234309,Bogura,abc,Engineer,Tech Solutions,India
+Babu Das,babu.das@gmail,01aebeeaead,Gazipur,abc,Manager,BD Software,Bangladesh
+Riya Mia,riya.mia@gmail.com,01379911838,Khulna,26,Accountant,Star Textile,Bangladesh
+Rakin   Das,rakin.dasoutlook.com,01441182449,Rajshahi,abc,Student,Delta Foods,Bangladesh
+Farzana Chowdhury,@yahoo.com,01478680112,Comilla,,Developer,City Bank,Bangladesh
+Saimon Hasan,@gmail.com,,  Noakhali,,Analyst,City Bank,Bangladesh
+Nadia   Molla,nadia.molla@yahoo.com,01521607337,Barishal,,Engineer,United Builders,Bangladesh
+Juthi Hasan,juthi.hasan@outlook.com,01314294019,Rangpur,11,Freelancer,Nexus IT,Bangladesh
+Farzana Hossain,farzana.hossain@yahoo.com,01561595148,Khulna,abc,Developer,Royal Hotel,Bangladesh
+Sohel Jahan,sohel.jahan@gmail.com,01543699577,  Mymensingh,17,Entrepreneur,Blue Logistics,Bangladesh
+  Rakin Sarkar  ,@yahoo.com,01432003791,Mymensingh,7,Sales Executive,Ocean Shipping,Bangladesh
+Tanvir Molla,tanvir.mollahotmail.com,01731727889,Barishal,17,Analyst,Blue Logistics,India
+Arman Chowdhury,arman.chowdhury@outlook.com,01987347143,Khulna,39,Doctor,City Bank,Bangladesh
+Rubel Molla,rubel.molla@gmail.com,01466909670,Barishal,13,Student,Royal Hotel,Bangladesh
+  Lamia Chowdhury  ,lamia.chowdhury@outlook.com,,Gazipur,6,Doctor,Prime Retail,India
+Rakib   Ahmed,rakib.ahmed@hotmail.com,0104653,  Mymensingh,11,Manager,Grameen Telecom,Bangladesh
+Toma Islam,toma.islam@gmail.com,01900330923,Sylhet,,Sales Executive,Royal Hotel,Bangladesh
+Mim Jahan,mim.jahan@gmail.com,01efddfbaef,Dinajpur,58,Driver,Grameen Telecom,Bangladesh
+Sumi Islam,sumi.islam@outlook.com,01385067165,Gazipur,5,Doctor,Royal Hotel,India
+Toma Sheikh,toma.sheikh@outlook.com,01531473799,Gazipur,42,Sales Executive,Sky Airlines,Bangladesh
+  Nadia Chowdhury  ,nadia.chowdhury@outlook.com,01708313678,Jessore,16,Sales Executive,Grameen Telecom,Bangladesh
+Riya Sultana,riya.sultana@outlook.com,01685574443,Chittagong,30,Driver,Nexus IT,Bangladesh
+  Zahid Das  ,zahid.das@yahoo.com,01535240824,  Dhaka,,Nurse,Sky Airlines,Bangladesh
+Bithi Mia,bithi.mia@outlook.com,01971167190,Sylhet,27,Accountant,Green Agro,India
+Lamia Das,lamia.das@outlook.com,01996499091,Jessore,abc,Nurse,Green Agro,Bangladesh
+  Rubel Mia  ,rubel.mia@gmail.com,01444713493,Rangpur,,Manager,Sky Airlines,Bangladesh
+Sumi Talukder,sumi.talukder@outlook.com,01864887719,Dhaka,abc,Engineer,Green Agro,Bangladesh
+Rakib Chowdhury,rakib.chowdhury@yahoo.com,01687429671,Mymensingh,abc,Designer,United Builders,Bangladesh
+Imran Begum,imran.begum@hotmail.com,01354516808,Mymensingh,,Student,Star Textile,India
+Hridoy Chowdhury,hridoy.chowdhury@hotmail.com,01871093248,Dhaka,53,Accountant,Sky Airlines,Bangladesh
+Rony Talukder,rony.talukder@hotmail.com,01bdebdbeef,Noakhali,abc,Entrepreneur,Grameen Telecom,Bangladesh
+Arif Talukder,arif.talukder@hotmail.com,01927875588,Rangpur,,Driver,BD Software,India
+Sabbir Sheikh,sabbir.sheikh@hotmail.com,01827028951,Dinajpur,4,Engineer,Royal Hotel,Bangladesh
+Bithi Chowdhury,bithi.chowdhury@gmail.com,01958657809,Chittagong,,Driver,Green Agro,Bangladesh
+Tanvir Mia,tanvir.miagmail.com,01gacccdbbe,Rangpur,,Doctor,Green Agro,India
+Zahid Al,@hotmail.com,01807482175,Narayanganj,abc,Sales Executive,Sky Airlines,Bangladesh
+Fahim Begum,fahim.begum@outlook.com,01364090974,Jessore,,Nurse,BD Software,India
+Arfan Khan,arfan.khan@outlook.com,01970952145,Bogura,,Doctor,Grameen Telecom,India
+Juthi Jahan,@hotmail.com,01851712368,Barishal,23,Manager,Nexus IT,Bangladesh
+  Zahid Begum  ,zahid.begum@gmail.com,01837098593,Gazipur,abc,Nurse,Ocean Shipping,Bangladesh
+Rony Khan, rony.khan @ yahoo.com ,01658692617,Narayanganj,44,Driver,Star Textile,Bangladesh
+Tanvir Hasan,tanvir.hasan@outlook.com,01364317139,Dhaka,,Doctor,Grameen Telecom,India
+  Zahid Akter  ,zahid.akter@yahoo.com,,Dhaka,,Student,Sun Pharma,Bangladesh
+Tamim Rahman,tamim.rahman@outlook.com,0126811,  Mymensingh,46,Sales Executive,Nexus IT,Bangladesh
+Anik Talukder,anik.talukder@gmail.com,01666177115,Narayanganj,,Manager,Prime Retail,Bangladesh
+Priya Das,priya.dashotmail.com,01918367365,Dinajpur,13,Driver,Green Agro,Bangladesh
+Mitu Sheikh, mitu.sheikh @ gmail.com ,01352809885,Gazipur,abc,Analyst,United Builders,Bangladesh
+Priya Talukder,priya.talukder@yahoo.com,01473158514,Narayanganj,32,Freelancer,Blue Logistics,Bangladesh
+  Riya Sarkar  ,riya.sarkar@yahoo.com,,Gazipur,,Driver,United Builders,Bangladesh
+  Shamim Sarkar  ,shamim.sarkaroutlook.com,01322901476,Mymensingh,15,Manager,BD Software,India
+Zahid Sheikh,zahid.sheikh@yahoo.com,01690034324,Khulna,38,Sales Executive,Royal Hotel,Bangladesh
+Dola Roy,dola.roy@gmail.com,01606071596,Narayanganj,abc,Teacher,Ocean Shipping,Bangladesh
+Shamim Hasan, shamim.hasan @ yahoo.com ,01768164535,Jessore,28,Student,Nexus IT,Bangladesh
+Mitu Rahman,mitu.rahman@yahoo,,Chittagong,16,Entrepreneur,Prime Retail,India
+Rakin Sarkar,rakin.sarkar@yahoo.com,01617744905,Comilla,10,Sales Executive,Tech Solutions,Bangladesh
+  Nusrat Uddin  ,nusrat.uddin@gmail.com,01693597820,Mymensingh,24,Student,United Builders,Bangladesh
+Anik Das,anik.das@outlook.com,01665905151,Comilla,abc,Driver,Sky Airlines,Bangladesh
+Nusrat Sultana,nusrat.sultana@outlook.com,01862914865,  Dinajpur,26,Nurse,United Builders,Bangladesh
+Hridoy Sarkar,hridoy.sarkar@yahoo.com,01421418880,Gazipur,5,Doctor,City Bank,Bangladesh
+Sadia Mia, sadia.mia @ yahoo.com ,01747383473,Barishal,15,Entrepreneur,Sun Pharma,Bangladesh
+Tania Uddin,@hotmail.com,,Noakhali,24,Manager,Green Agro,Bangladesh
+Farzana Ahmed,farzana.ahmed@hotmail.com,01adadecbda,Barishal,abc,Teacher,Sky Airlines,Bangladesh
+Imran Sheikh,imran.sheikh@hotmail.com,01eaaacbgbe,Bogura,17,Teacher,Grameen Telecom,Bangladesh
+Rakin Mia,rakin.miahotmail.com,01889324609,Barishal,,Nurse,United Builders,Bangladesh
+Toma Das,toma.das@gmail.com,01670654051,Barishal,abc,Doctor,Tech Solutions,Bangladesh
+Shamim Sheikh,shamim.sheikh@gmail.com,01870430305,Noakhali,17,Analyst,Nexus IT,Bangladesh
+Tamim Islam,tamim.islam@gmail.com,01956676527,Bogura,abc,Entrepreneur,Green Agro,Bangladesh
+  Rafi Roy  ,@outlook.com,01defdbfdcd,Dhaka,abc,Nurse,Grameen Telecom,Bangladesh
+Sadia Hossain,sadia.hossainhotmail.com,01413556909,Sylhet,abc,Sales Executive,Grameen Telecom,Bangladesh
+Juthi Rahman,juthi.rahman@yahoo.com,01edeacgcfd,Rajshahi,10,Accountant,Green Agro,Bangladesh
+Arman Ahmed,arman.ahmed@outlook.com,01851884422,Jessore,,Teacher,BD Software,Bangladesh
+Sumi Hasan,sumi.hasan@yahoo.com,01711467866,Dinajpur,,Designer,United Builders,Bangladesh
+Nayeem Sultana,nayeem.sultanahotmail.com,01918242253,Barishal,51,Manager,BD Software,Bangladesh
+Rakin Roy,rakin.roy@yahoo,01899590010,  Gazipur,,Entrepreneur,Prime Retail,Bangladesh
+Toma Talukder,toma.talukder@yahoo.com,01964710276,Mymensingh,abc,Freelancer,City Bank,Bangladesh
+Tamim Begum,@gmail.com,01471473210,Khulna,,Analyst,Blue Logistics,Bangladesh
+Tania Jahan,tania.jahan@hotmail.com,01570168733,Narayanganj,40,Manager,Delta Foods,India
+Toma Hossain,toma.hossain@outlook.com,01856506098,Rajshahi,41,Developer,Nexus IT,Bangladesh
+  Rakin Khan  ,@outlook.com,,Barishal,7,Student,Tech Solutions,Bangladesh
+Anik Mia,@yahoo.com,01752694958,Dinajpur,abc,Sales Executive,Sky Airlines,Bangladesh
+  Zahid Talukder  ,zahid.talukder@gmail.com,01774993097,Sylhet,,Analyst,United Builders,Bangladesh
+Rakib Mia,rakib.mia@yahoo.com,01egedggffa,Bogura,,Student,Star Textile,Bangladesh
+Shamim Roy,shamim.roy@outlook.com,01773348434,Jessore,7,Designer,Delta Foods,Bangladesh
+Imran Khan,imran.khan@hotmail.com,01952404157,Gazipur,,Accountant,Sky Airlines,India
+Tanvir Uddin,tanvir.uddin@gmail.com,,Noakhali,,Engineer,Green Agro,Bangladesh
+Arfan Hossain,arfan.hossain@yahoo.com,01677345401,  Gazipur,54,Doctor,Ocean Shipping,Bangladesh
+Rony Jahan,rony.jahan@outlook.com,01304991547,Gazipur,17,Doctor,Sky Airlines,India
+Sadia Mia,sadia.mia@gmail.com,01854932966,Comilla,3,Nurse,Green Agro,Bangladesh
+Arif Chowdhury,arif.chowdhury@outlook.com,01549904530,Gazipur,abc,Doctor,Ocean Shipping,Bangladesh
+Riya   Khan,riya.khan@outlook.com,01733272795,Rangpur,,Entrepreneur,BD Software,Bangladesh
+Arman Das,arman.das@gmail.com,0188398,Sylhet,11,Teacher,United Builders,Bangladesh
+  Arman Islam  ,arman.islam@hotmail.com,01708740640,Bogura,31,Developer,Star Textile,Bangladesh
+Shakib Sheikh, shakib.sheikh @ yahoo.com ,01567661825,Chittagong,,Driver,BD Software,Bangladesh
+  Toma Molla  ,toma.molla@yahoo.com,01652431069,Jessore,,Teacher,Green Agro,India
+Babu Rahman,babu.rahman@yahoo.com,01730284395,Narayanganj,,Manager,Blue Logistics,Bangladesh
+Juthi Islam,juthi.islam@yahoo.com,01868705685,Bogura,,Manager,Ocean Shipping,Bangladesh
+Riya Al,riya.al@hotmail.com,01688263435,  Gazipur,abc,Teacher,Nexus IT,Bangladesh
+Priya Uddin, priya.uddin @ yahoo.com ,0154033,Bogura,,Driver,Prime Retail,Bangladesh
+Imran Begum,imran.begum@outlook.com,01558771753,  Barishal,38,Freelancer,Sky Airlines,Bangladesh
+Zahid Sultana,zahid.sultana@yahoo.com,01bdegbdeff,Barishal,16,Sales Executive,City Bank,Bangladesh
+  Rony Jahan  ,rony.jahan@gmail.com,01701006231,Bogura,,Student,Delta Foods,Bangladesh
+Bithi Sheikh,bithi.sheikhhotmail.com,01384840862,Chittagong,,Accountant,BD Software,India
+Keya Ahmed,keya.ahmed@yahoo.com,01834101666,Comilla,48,Driver,City Bank,Bangladesh
+  Sumi Khan  ,sumi.khan@yahoo.com,01497401489,Gazipur,abc,Engineer,BD Software,India
+Shakib Talukder,@hotmail.com,01gfbgffaef,Barishal,4,Accountant,Sky Airlines,Bangladesh
+Keya   Sarkar, keya.sarkar @ hotmail.com ,0158662,Gazipur,55,Entrepreneur,Prime Retail,Bangladesh
+Mitu   Begum,mitu.begum@hotmail.com,01551104754,Chittagong,,Developer,Delta Foods,India
+Tamim Roy, tamim.roy @ outlook.com ,01346618398,  Sylhet,,Manager,Sun Pharma,Bangladesh
+Rubel Talukder,rubel.talukder@outlook.com,0179937,Chittagong,26,Developer,Star Textile,India
+Sumi Sarkar,sumi.sarkar@hotmail,01523884969,Rangpur,,Student,Delta Foods,Bangladesh
+Farzana Hossain,farzana.hossain@yahoo.com,01561595148,Khulna,abc,Developer,Royal Hotel,Bangladesh

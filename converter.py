@@ -7,7 +7,11 @@ def read_csv(file_path):
     try:
         with open (file_path,"r",newline="",encoding="utf-8") as file:
             reader =  csv.DictReader(file)
-            return list(reader)
+            rows = []
+            for row in reader:
+                clean_row = {key.strip() : value for key, value in row.items()}
+                rows.append(clean_row)
+            return rows
     except FileNotFoundError as error:
         print(f"[ERROR] File not found: ({file_path}): {error}")
         return []

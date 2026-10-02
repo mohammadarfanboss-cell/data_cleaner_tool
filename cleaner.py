@@ -74,7 +74,7 @@ class DataCleaner:
         return {
             "total_processed": total_processed,
             "valid_rows": self.valid_rows,
-            "invalid_row": self.invalid_rows,
+            "invalid_rows": self.invalid_rows,
             "duplicates_count": self.duplicates_count
         }
     

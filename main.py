@@ -16,12 +16,12 @@ def main():
     print(f"[OK] Read {len(rows)} row (s).")
 
     cleaner = DataCleaner(rows)
-    cleaner.cleaner_text_fields(["name","city"]).duplicates_remove().validate()
+    cleaner.cleaner_text_fields(["name","email","city","occupation","company"]).duplicates_remove().validate()
 
-    fieldnames = ["name","email","phone","city"]
-
+    fieldnames = list(rows[0].keys()) if rows else []
+    
     write_csv("clean_data.csv",cleaner.valid_rows,fieldnames)
-    write_csv("invalid_data.csv",cleaner.invalid_rows,fieldnames+["error_reasons"])
+    write_csv("invalid_data.csv",cleaner.invalid_rows,fieldnames)
     write_json("valid_data.json",cleaner.valid_rows)
 
     report = cleaner.summary()
