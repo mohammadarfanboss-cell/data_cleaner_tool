@@ -26,7 +26,7 @@ def main():
 
     report = cleaner.summary()
     for key,value in report.items():
-        print(f"key: {key},value: {value}")
+        print(f"key:{key},value: {value}")
 
     print("=========REPORT==========")
 
